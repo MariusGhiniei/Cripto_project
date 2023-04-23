@@ -1,0 +1,7 @@
+Implementati https://cs.uwaterloo.ca/journals/JIS/VOL11/Rowland/rowland21.pdf pentru generarea numerelor
+prime cu parametru pentru numarul de executii.
+Scrieti outputul intr-un fisier.
+Verificati ca toate numerele din fisier diferite de 1 sunt prime cu un algoritm determinist.
+Calculati raportul dintre numarul de executii si numarul de numere prime.
+Aproximati probabilitatea ca un output sa fie prim, executand pentru diferite valori ale numarului de incercari.
+Comparati cu o lista stiuta a numerelor prime cate din ea s-au gasit
