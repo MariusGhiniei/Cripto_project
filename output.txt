@@ -1,0 +1,393 @@
+Numarul 1 este: 3
+Numarul 2 este: 11
+Numarul 3 este: 3
+Numarul 4 este: 23
+Numarul 5 este: 3
+Numarul 6 este: 47
+Numarul 7 este: 3
+Numarul 8 este: 5
+Numarul 9 este: 3
+Numarul 10 este: 101
+Numarul 11 este: 3
+Numarul 12 este: 7
+Numarul 13 este: 11
+Numarul 14 este: 3
+Numarul 15 este: 13
+Numarul 16 este: 233
+Numarul 17 este: 3
+Numarul 18 este: 467
+Numarul 19 este: 3
+Numarul 20 este: 5
+Numarul 21 este: 3
+Numarul 22 este: 941
+Numarul 23 este: 3
+Numarul 24 este: 7
+Numarul 25 este: 1889
+Numarul 26 este: 3
+Numarul 27 este: 3779
+Numarul 28 este: 3
+Numarul 29 este: 7559
+Numarul 30 este: 3
+Numarul 31 este: 13
+
+====================
+Numarul 32 este: 5
+Numarul 33 este: 3
+Numarul 34 este: 11
+Numarul 35 este: 3
+Numarul 36 este: 23
+Numarul 37 este: 3
+Numarul 38 este: 47
+Numarul 39 este: 3
+Numarul 40 este: 5
+Numarul 41 este: 3
+Numarul 42 este: 101
+Numarul 43 este: 3
+Numarul 44 este: 7
+Numarul 45 este: 11
+Numarul 46 este: 3
+Numarul 47 este: 13
+Numarul 48 este: 233
+Numarul 49 este: 3
+Numarul 50 este: 467
+Numarul 51 este: 3
+Numarul 52 este: 5
+Numarul 53 este: 3
+Numarul 54 este: 941
+Numarul 55 este: 3
+Numarul 56 este: 7
+Numarul 57 este: 1889
+Numarul 58 este: 3
+Numarul 59 este: 3779
+Numarul 60 este: 3
+Numarul 61 este: 7559
+Numarul 62 este: 3
+Numarul 63 este: 13
+
+====================
+Numarul 64 este: 5
+Numarul 65 este: 3
+Numarul 66 este: 11
+Numarul 67 este: 3
+Numarul 68 este: 23
+Numarul 69 este: 3
+Numarul 70 este: 47
+Numarul 71 este: 3
+Numarul 72 este: 5
+Numarul 73 este: 3
+Numarul 74 este: 101
+Numarul 75 este: 3
+Numarul 76 este: 7
+Numarul 77 este: 11
+Numarul 78 este: 3
+Numarul 79 este: 13
+Numarul 80 este: 233
+Numarul 81 este: 3
+Numarul 82 este: 467
+Numarul 83 este: 3
+Numarul 84 este: 5
+Numarul 85 este: 3
+Numarul 86 este: 941
+Numarul 87 este: 3
+Numarul 88 este: 7
+Numarul 89 este: 1889
+Numarul 90 este: 3
+Numarul 91 este: 3779
+Numarul 92 este: 3
+Numarul 93 este: 7559
+Numarul 94 este: 3
+Numarul 95 este: 13
+
+====================
+Numarul 96 este: 5
+Numarul 97 este: 3
+Numarul 98 este: 11
+Numarul 99 este: 3
+Numarul 100 este: 23
+Numarul 101 este: 3
+Numarul 102 este: 47
+Numarul 103 este: 3
+Numarul 104 este: 5
+Numarul 105 este: 3
+Numarul 106 este: 101
+Numarul 107 este: 3
+Numarul 108 este: 7
+Numarul 109 este: 11
+Numarul 110 este: 3
+Numarul 111 este: 13
+Numarul 112 este: 233
+Numarul 113 este: 3
+Numarul 114 este: 467
+Numarul 115 este: 3
+Numarul 116 este: 5
+Numarul 117 este: 3
+Numarul 118 este: 941
+Numarul 119 este: 3
+Numarul 120 este: 7
+Numarul 121 este: 1889
+Numarul 122 este: 3
+Numarul 123 este: 3779
+Numarul 124 este: 3
+Numarul 125 este: 7559
+Numarul 126 este: 3
+Numarul 127 este: 13
+
+====================
+Numarul 128 este: 5
+Numarul 129 este: 3
+Numarul 130 este: 11
+Numarul 131 este: 3
+Numarul 132 este: 23
+Numarul 133 este: 3
+Numarul 134 este: 47
+Numarul 135 este: 3
+Numarul 136 este: 5
+Numarul 137 este: 3
+Numarul 138 este: 101
+Numarul 139 este: 3
+Numarul 140 este: 7
+Numarul 141 este: 11
+Numarul 142 este: 3
+Numarul 143 este: 13
+Numarul 144 este: 233
+Numarul 145 este: 3
+Numarul 146 este: 467
+Numarul 147 este: 3
+Numarul 148 este: 5
+Numarul 149 este: 3
+Numarul 150 este: 941
+Numarul 151 este: 3
+Numarul 152 este: 7
+Numarul 153 este: 1889
+Numarul 154 este: 3
+Numarul 155 este: 3779
+Numarul 156 este: 3
+Numarul 157 este: 7559
+Numarul 158 este: 3
+Numarul 159 este: 13
+
+====================
+Numarul 160 este: 5
+Numarul 161 este: 3
+Numarul 162 este: 11
+Numarul 163 este: 3
+Numarul 164 este: 23
+Numarul 165 este: 3
+Numarul 166 este: 47
+Numarul 167 este: 3
+Numarul 168 este: 5
+Numarul 169 este: 3
+Numarul 170 este: 101
+Numarul 171 este: 3
+Numarul 172 este: 7
+Numarul 173 este: 11
+Numarul 174 este: 3
+Numarul 175 este: 13
+Numarul 176 este: 233
+Numarul 177 este: 3
+Numarul 178 este: 467
+Numarul 179 este: 3
+Numarul 180 este: 5
+Numarul 181 este: 3
+Numarul 182 este: 941
+Numarul 183 este: 3
+Numarul 184 este: 7
+Numarul 185 este: 1889
+Numarul 186 este: 3
+Numarul 187 este: 3779
+Numarul 188 este: 3
+Numarul 189 este: 7559
+Numarul 190 este: 3
+Numarul 191 este: 13
+Numarul 192 este: 15131
+Numarul 193 este: 3
+Numarul 194 este: 53
+Numarul 195 este: 3
+Numarul 196 este: 7
+Numarul 197 este: 30323
+Numarul 198 este: 3
+Numarul 199 este: 60647
+Numarul 200 este: 3
+Numarul 201 este: 5
+Numarul 202 este: 3
+Numarul 203 este: 101
+Numarul 204 este: 3
+
+====================
+Numarul 205 este: 5
+Numarul 206 este: 3
+Numarul 207 este: 11
+Numarul 208 este: 3
+Numarul 209 este: 23
+Numarul 210 este: 3
+Numarul 211 este: 47
+Numarul 212 este: 3
+Numarul 213 este: 5
+Numarul 214 este: 3
+Numarul 215 este: 101
+Numarul 216 este: 3
+Numarul 217 este: 7
+Numarul 218 este: 11
+Numarul 219 este: 3
+Numarul 220 este: 13
+Numarul 221 este: 233
+Numarul 222 este: 3
+Numarul 223 este: 467
+Numarul 224 este: 3
+Numarul 225 este: 5
+Numarul 226 este: 3
+Numarul 227 este: 941
+Numarul 228 este: 3
+Numarul 229 este: 7
+Numarul 230 este: 1889
+Numarul 231 este: 3
+Numarul 232 este: 3779
+Numarul 233 este: 3
+Numarul 234 este: 7559
+Numarul 235 este: 3
+Numarul 236 este: 13
+Numarul 237 este: 15131
+Numarul 238 este: 3
+Numarul 239 este: 53
+Numarul 240 este: 3
+Numarul 241 este: 7
+Numarul 242 este: 30323
+Numarul 243 este: 3
+Numarul 244 este: 60647
+Numarul 245 este: 3
+Numarul 246 este: 5
+Numarul 247 este: 3
+Numarul 248 este: 101
+Numarul 249 este: 3
+
+====================
+====================
+Generarea numarul: 0
+Am generat numarul: 631009
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 486041 3 7 421 23 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 1
+Am generat numarul: 434515
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 2
+Am generat numarul: 737758
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 486041 3 7 421 23 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 3
+Am generat numarul: 422957
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 4
+Am generat numarul: 493911
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 486041 3 7 421 23 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 5
+Am generat numarul: 246563
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 6
+Am generat numarul: 289411
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 7
+Am generat numarul: 548836
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 486041 3 7 421 23 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 8
+Am generat numarul: 374291
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 30323 3 60647 3 5 3 101 3 121403 3 242807 3 5 3 19 7 5 3 47 3 37 5 3 17 3 199 53 3 29 3 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
+====================
+Generarea numarul: 9
+Am generat numarul: 24098
+Am gasit urmatoarele numere prime
+3 5 3 11 3 23 3 47 3 5 3 101 3 7 11 3 13 233 3 467 3 5 3 941 3 7 1889 3 3779 3 7559 3 13 15131 3 53 3 7 
+====================
+Frecventa numerelor este: 
+Numarul 3 are freceventa de 1
+
+====================
+Probabilitatea ca toate numere gasite sa fie prime este: 100 %
+
+
